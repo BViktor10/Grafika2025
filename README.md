@@ -17,5 +17,3 @@ A világítás és árnyékolás is megvalósításra került, így a szobor **�
 ## Forrás és inspiráció
 
 A beadandó feladat **Piller Imre tanár úr** dokumentációja és példa feladata alapján került kidolgozásra, azok szabadabb, kreatív újraértelmezésével.
-# Grafika2025
-Grafika beadandó 2025
